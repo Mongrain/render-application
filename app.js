@@ -52,7 +52,7 @@ const html = `
   </head>
   <body>
     <section>
-      送给陈姑娘
+      送给陈姑娘！
     </section>
   </body>
 </html>
