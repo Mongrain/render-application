@@ -52,7 +52,7 @@ const html = `
   </head>
   <body>
     <section>
-      送给陈姑娘！
+     Ling. I am willing to love you infinitely in a limited time. 
     </section>
   </body>
 </html>
